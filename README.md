@@ -5,7 +5,7 @@
 
 - 🌱 I’m currently learning **Machine Learning**
 
-- 👯 I’m looking to collaborate on **on Data Science projects**
+- 👯 I’m looking to collaborate on ** Data Science projects**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
