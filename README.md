@@ -1,5 +1,5 @@
 <h1 align="center">Hi there!👋 I'm Jibek Gupta</h1>
-<h3 align="center">As a Computer Science student at Howard University, I'm deeply passionate about data science, machine learning, and software engineering. I actively seek opportunities to expand my knowledge and engage in professional development. With experience from personal and group projects, I aim to apply my skills to real-world problems. I find fulfillment in delving into data science, exploring machine learning, and utilizing web scraping techniques. I am committed to seizing opportunities that contribute to my growth and propel me towards achieving my career goals.</h3>
+<h3 align="center">I am deeply passionate about data science, machine learning, and software engineering, driven by a desire to tackle real-world challenges. With hands-on experience in personal and group projects, I am well-equipped to apply my skills effectively. My commitment to continuous learning is unwavering, as I actively seek opportunities for professional growth in these dynamic fields. I am eager to leverage my expertise to make meaningful contributions and address complex problems.</h3>
 
 
 
