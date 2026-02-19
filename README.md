@@ -3,7 +3,7 @@
 <p align="center">
   🎓 Computer Science @ Howard University (May 2026) <br>
   📊 Data Analyst | Applied Machine Learning | Business Intelligence <br>
-  📍 Washington, DC | OPT Eligible
+  📍 Washington, DC 
 </p>
 
 ---
